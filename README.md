@@ -1,3 +1,3 @@
 # projeto-android
 ***
- Projeto de um site criado durante o curso de HTML5 e CSS3 do canal Curso em Vídeo, o objetivo deste projeto é reforçar os conhecimentos sobre tags em HTML e estilização em CSS onde também foi trabalhado a questão da responsividade de um site o tornando responsivo a diferentes tamanhos de telas. Você pode conferir o resultado [aqui!] (https://gabriel-costa-valin.github.io/projeto-android/index.html)
+ Projeto de um site criado durante o curso de HTML5 e CSS3 do canal Curso em Vídeo, o objetivo deste projeto é reforçar os conhecimentos sobre tags em HTML e estilização em CSS onde também foi trabalhado a questão da responsividade de um site o tornando responsivo a diferentes tamanhos de telas. Você pode conferir o resultado [aqui!](https://gabriel-costa-valin.github.io/projeto-android/index.html)
